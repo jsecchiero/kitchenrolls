@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>http://kitchenrolls.it/en/#contacts</loc>
+    <lastmod>2017-06-12T22:26:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kitchenrolls.it/en/#menu</loc>
+    <lastmod>2017-06-12T21:53:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kitchenrolls.it/en/#about</loc>
+    <lastmod>2017-06-12T16:52:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kitchenrolls.it/en/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kitchenrolls.it/en/#</loc>
+    <lastmod>2017-06-12T22:26:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kitchenrolls.it/en/#</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
